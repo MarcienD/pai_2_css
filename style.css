@@ -2,14 +2,19 @@ body {
   color: blue;
 }
 
-h2 {
+.blue-text {
+   color: blue;
+}
+
+.red-text {
    color: red;
 }
 
-h3 {
+.green-text {
    color: green;
 }
-#yellow-text{
+
+.yellow-text {
    color: yellow;
 }
 
